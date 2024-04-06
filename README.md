@@ -14,3 +14,6 @@ Deep Learning Techniques:
 
 ## Results:
 The project compares the performance of different machine learning and deep learning techniques for credit card fraud detection. The best results are achieved by employing the Synthetic Minority Oversampling Technique (SMOTE) to address the class imbalance issue. With SMOTE, the model successfully detects 100% of all fraudulent transactions in the unseen test set while maintaining an acceptable number of false positives. This approach significantly enhances the system's ability to detect abnormal transactions and reduces the workload for fraud detection departments by minimizing false positives.
+
+Comparison of performance of the tested approaches:
+<img width="650" alt="Screenshot 2024-04-07 at 12 47 36 AM" src="https://github.com/devanshbanka/Credit-Card-Fraud-Detection-Machine-Learning/assets/96118596/083eff10-acc5-4d2c-a2f0-df58ec5ece0d">
